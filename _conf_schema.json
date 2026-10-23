@@ -1,0 +1,12 @@
+{
+  "web_token": {
+    "description": "DeepSeek 开放平台（platform.deepseek.com）网页登录令牌（仅填令牌，不含 Bearer；不是模型 API Key）",
+    "type": "string",
+    "default": ""
+  },
+  "allowed_groups": {
+    "description": "开放充值的 QQ 群号，空列表不开放；本人账单可私聊查询",
+    "type": "list",
+    "default": []
+  }
+}

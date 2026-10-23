@@ -1,0 +1,8 @@
+name: astrbot_plugin_dsAutoPay
+repo: https://github.com/Anon2Tokyo/astrbot_plugin_dsAutoPay
+display_name: DeepSeek 自动充值
+desc: QQ 群 DeepSeek 支付二维码、有限订单轮询和本人账单查询。
+version: v0.2.0
+author: dsAutoPay contributors
+support_platforms:
+  - aiocqhttp
